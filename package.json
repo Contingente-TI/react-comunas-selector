@@ -1,30 +1,31 @@
 {
-  "name": "react-comunas-selector",
-  "version": "1.1.0",
-  "description": "A startup kit to create React Apps with Gulp, Babel, Browserify and BrowserSync. More details on the github repository",
+  "name": "@contingente/react-comunas-selector",
+  "version": "1.0.0",
+  "description": "Selector de regiones y comunas de chile para react",
   "main": "./lib/index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/rhernandog/react-comunas-selector.git"
+    "url": "git+https://github.com/Contingente-TI/react-comunas-selector"
   },
   "keywords": [
     "react",
     "gulp",
     "babel",
-    "browserify"
+    "browserify",
+    "contingente"
   ],
-  "author": "Rodrigo Hernando",
+  "author": "Contingente / Fork from Rodrigo Hernando",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/rhernandog/react-comunas-selector.git/issues"
+    "url": "https://github.com/Contingente-TI/react-comunas-selector.git/issues"
   },
   "peerDependencies": {
     "react": "^15.0.1"
   },
-  "homepage": "https://rhernandog.github.io/react-comunas-selector/",
+  "homepage": "https://github.com/Contingente-TI/react-comunas-selector",
   "devDependencies": {
     "babel": "^6.23.0",
     "babel-preset-es2015": "^6.24.1",
