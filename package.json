@@ -1,6 +1,6 @@
 {
   "name": "@contingente/react-comunas-selector",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Selector de regiones y comunas de chile para react",
   "main": "./lib/index.js",
   "scripts": {
